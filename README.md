@@ -19,6 +19,6 @@ CashCompass is a web app that has a Budget Tracker, Portfolio Builder and News s
 
 :newspaper: The News section will use AI to browse the web and find the latest relevant news for the user. Once again, the financial goal provided by the user during the Portfolio Builder section is important as it will influence what type of news is shown. Furthermore, this section will show the price of stocks in real-time and the user has the option to 'pin' their favourite stocks to the top. This feature was inspired by Yahoo Finance. 
 
-:green_book:The website will also have a registration and login page for users to create accounts that store their personal preferences and information.
+:green_book:The website will also have a registration and login page for users to create accounts that store their personal preferences and information. Additonally, the current UI/UX is limited, but will dynamically expand as more content is added. For example, more news articles in a real-world application. 
 
 CashCompass was built using HTML, CSS and a little bit of JavaScript, with the help of W3Schools, StackOverflow and Google. 
